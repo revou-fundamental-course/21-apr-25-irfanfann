@@ -20,11 +20,16 @@ button {
 }
 
 .bg-2 {
-  background-color: white;
+  background-color: lightblue;
 }
 
 .bg-3 {
   background-color: lightsalmon;
+}
+
+.main-content {
+  width: 500px;
+  height: 500px;
 }
 
 .section-content {
